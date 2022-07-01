@@ -5,7 +5,7 @@
 ## Youtube Video
 * [a Decade of FHE (spoken at Eurocrypt 2021 by Gentry)](https://www.youtube.com/watch?v=487AjvFW1lk&t=3917s)
 
-# 2. TFHE(Fast Fully Homomorphic Encryption over the Torus)
+# 2. TFHE (Fast Fully Homomorphic Encryption over the Torus)
 ## General
 * [TFHE Homepage](https://tfhe.github.io/tfhe/)
 
