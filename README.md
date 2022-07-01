@@ -8,4 +8,4 @@
 * [TFHE Homepage](https://tfhe.github.io/tfhe/)
 
 ## TFHE Paper
-* [Full Paper ]
+* [TFHE Illaria Chillotti Thesis Paper](https://ilachill.github.io/papers/these_Ilaria_Chillotti_wo_acknowl.pdf)
