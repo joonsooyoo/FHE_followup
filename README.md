@@ -1,11 +1,11 @@
-# FHE in General
+# 1. FHE in General
 ## Introduction
 * [Holy Grail of FHE](https://www.cs.utexas.edu/~dwu4/papers/XRDSFHE.pdf)
 
 ## Youtube Video
 * [a Decade of FHE (spoken at Eurocrypt 2021 by Gentry)](https://www.youtube.com/watch?v=487AjvFW1lk&t=3917s)
 
-# TFHE(Fast Fully Homomorphic Encryption over the Torus)
+# 2. TFHE(Fast Fully Homomorphic Encryption over the Torus)
 ## General
 * [TFHE Homepage](https://tfhe.github.io/tfhe/)
 
