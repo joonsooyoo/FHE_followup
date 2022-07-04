@@ -1,3 +1,6 @@
+# Recent Release
+* [Parameter Optimization and Larger Precision for (T)FHE](https://eprint.iacr.org/2022/704.pdf)
+
 # 1. FHE in General
 ## Introduction
 * [Holy Grail of FHE](https://www.cs.utexas.edu/~dwu4/papers/XRDSFHE.pdf)
