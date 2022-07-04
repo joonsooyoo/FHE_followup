@@ -12,5 +12,8 @@
 ## TFHE Youtube Video
 * [TFHE deep dive by Illaria at Zama](https://www.youtube.com/watch?v=npoHSR6-oRw&t=28s)
 
+## Easy Illustration
+* [A CONCRETE approach to torus fully homomorphic encryption by Maria Ferrara](https://eprint.iacr.org/2022/594.pdf)
+
 ## TFHE Paper
 * [TFHE Illaria Chillotti Thesis Paper](https://ilachill.github.io/papers/these_Ilaria_Chillotti_wo_acknowl.pdf)
