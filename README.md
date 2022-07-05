@@ -17,11 +17,16 @@
 
 ## Easy Illustration
 * [A CONCRETE approach to torus fully homomorphic encryption by Maria Ferrara](https://eprint.iacr.org/2022/594.pdf)
+* [TFHE for Practitioners by Illaria (part 1)](https://www.zama.ai/post/tfhe-deep-dive-part-1?utm_source=tfhe_deep_dive_part_I&utm_medium=discourse&utm_campaign=blogpost)
+* [TFHE for Practitioners by Illaria (part 2)](https://www.zama.ai/post/tfhe-deep-dive-part-2)
+* [TFHE for Practitioners by Illaria (part 3)](https://www.zama.ai/post/tfhe-deep-dive-part-3)
+* [TFHE for Practitioners by Illaria (part 4)](https://www.zama.ai/post/tfhe-deep-dive-part-4)
 
 ## TFHE Paper
 * [TFHE Illaria Chillotti Thesis Paper](https://ilachill.github.io/papers/these_Ilaria_Chillotti_wo_acknowl.pdf)
+* [Multikey-TFHE 2019](https://eprint.iacr.org/2019/116.pdf)
 
 ## Implementation
 * [original-TFHE](https://github.com/tfhe/tfhe) : C/C++ code / implements boostrapping homomorphic binary gates
-* [multikey-TFHE](https://eprint.iacr.org/2019/116.pdf) : (POC) C/C++ code / implements multi-key asymmetric encryption of FHE
+* [multikey-TFHE](https://github.com/ilachill/MK-TFHE) : (POC) C/C++ code / implements multi-key asymmetric encryption of FHE
 * [Concrete Library](https://github.com/zama-ai) : New Release of TFHE / PBS functionality + many more TFHE operations
