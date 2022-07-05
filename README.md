@@ -20,3 +20,8 @@
 
 ## TFHE Paper
 * [TFHE Illaria Chillotti Thesis Paper](https://ilachill.github.io/papers/these_Ilaria_Chillotti_wo_acknowl.pdf)
+
+## Implementation
+* [original-TFHE](https://github.com/tfhe/tfhe)
+* [multikey-TFHE](https://eprint.iacr.org/2019/116.pdf)
+* [Concrete Library](https://github.com/zama-ai)
