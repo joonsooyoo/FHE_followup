@@ -23,5 +23,6 @@
 
 ## Implementation
 * [original-TFHE](https://github.com/tfhe/tfhe)
+- written in C/C++ code / implements boostrapping homomorphic binary gates
 * [multikey-TFHE](https://eprint.iacr.org/2019/116.pdf)
 * [Concrete Library](https://github.com/zama-ai)
