@@ -30,3 +30,6 @@
 * [original-TFHE](https://github.com/tfhe/tfhe) : C/C++ code / implements boostrapping homomorphic binary gates
 * [multikey-TFHE](https://github.com/ilachill/MK-TFHE) : (POC) C/C++ code / implements multi-key asymmetric encryption of FHE
 * [Concrete Library](https://github.com/zama-ai) : New Release of TFHE / PBS functionality + many more TFHE operations
+
+## Concrete Implementation Guide (ZAMA)
+* [tutorial on concrete-FHE](https://docs.zama.ai/concrete/lib/user/README.html)
