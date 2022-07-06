@@ -27,17 +27,20 @@
 * [Multikey-TFHE 2019](https://eprint.iacr.org/2019/116.pdf)
 
 ## Implementation
+#### Library
 * [original-TFHE](https://github.com/tfhe/tfhe) : C/C++ code / implements boostrapping homomorphic binary gates
 * [multikey-TFHE](https://github.com/ilachill/MK-TFHE) : (POC) C/C++ code / implements multi-key asymmetric encryption of FHE
 * [Concrete Library](https://github.com/zama-ai) : New Release of TFHE / PBS functionality + many more TFHE operations
 
-## Concrete Implementation Guide (ZAMA)
+#### CONCRETE Implementation Guide (ZAMA)
 * [tutorial on concrete-FHE](https://docs.zama.ai/concrete/lib/user/README.html)
 
-## Miscellaneous
+# 3. Miscellaneous
+## Programming
 #### Rust Programming (Learn Rust)
 * [Rust Official Documentation](https://doc.rust-lang.org/book/title-page.html)
 * [Rust by Example](https://doc.rust-lang.org/rust-by-example/primitives/tuples.html)
 
-
-
+## Cryptography
+#### Open Source Book
+* [A Graduate Course in Applied Cryptography by Boneh and Shoup](http://toc.cryptobook.us/book.pdf)
