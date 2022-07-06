@@ -1,4 +1,4 @@
-# Recent Release
+# 0. Recent Release
 * [Parameter Optimization and Larger Precision for (T)FHE](https://eprint.iacr.org/2022/704.pdf)
 
 # 1. FHE in General
