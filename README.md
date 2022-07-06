@@ -35,7 +35,7 @@
 * [tutorial on concrete-FHE](https://docs.zama.ai/concrete/lib/user/README.html)
 
 ## Miscellaneous
-### Rust Programming (Learn Rust)
+#### Rust Programming (Learn Rust)
 * [Rust Official Documentation](https://doc.rust-lang.org/book/title-page.html)
 * [Rust by Example](https://doc.rust-lang.org/rust-by-example/primitives/tuples.html)
 
