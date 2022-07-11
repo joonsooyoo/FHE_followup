@@ -14,6 +14,7 @@
 
 ## TFHE Youtube Video
 * [TFHE deep dive by Illaria at Zama](https://www.youtube.com/watch?v=npoHSR6-oRw&t=28s)
+* [Homomorphic Large Precision Integers Using Concrete by Jean-Baptiste](https://www.youtube.com/watch?v=50zE42Lzbd8&t=182)
 
 ## Easy Illustration
 * [A CONCRETE approach to torus fully homomorphic encryption by Maria Ferrara](https://eprint.iacr.org/2022/594.pdf)
