@@ -51,3 +51,7 @@
 ## Cryptography
 #### Open Source Book
 * [A Graduate Course in Applied Cryptography by Boneh and Shoup](http://toc.cryptobook.us/book.pdf)
+
+## Some Math
+* [primitive roots](https://brilliant.org/wiki/primitive-roots-of-unity/#:~:text=Primitive%20n%20th%20n%5E%5Ctext,theory%2C%20especially%20algebraic%20number%20theory.)
+* [cyclotomic poly.](https://brilliant.org/wiki/cyclotomic-polynomials/)
