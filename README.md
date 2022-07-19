@@ -36,11 +36,14 @@
 #### CONCRETE Implementation Guide (ZAMA)
 * [tutorial on concrete-FHE](https://docs.zama.ai/concrete/lib/user/README.html)
 
-# 3. B\FV, CKKS, and Others
+# 3. B\FV, CKKS, and LWE
 ## B\FV
 * [[FV12] Somewhat Practical Fully Homomorphic Encryption](https://eprint.iacr.org/2012/144.pdf)
 
-## 
+## CKKS
+
+## LWE
+* [On Ideal Lattices and Learning with Errors Over Rings 2010](https://eprint.iacr.org/2012/230.pdf)
 
 # 4. Miscellaneous
 ## Programming
