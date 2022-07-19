@@ -36,7 +36,11 @@
 #### CONCRETE Implementation Guide (ZAMA)
 * [tutorial on concrete-FHE](https://docs.zama.ai/concrete/lib/user/README.html)
 
-# 3. Miscellaneous
+# 3. B\FV, CKKS, and Others
+## B\FV
+* [FV scheme: Somewhat Practical Fully Homomorphic Encryption](https://eprint.iacr.org/2012/144.pdf)
+
+# 4. Miscellaneous
 ## Programming
 #### Rust Programming (Learn Rust)
 * [Rust Official Documentation](https://doc.rust-lang.org/book/title-page.html)
