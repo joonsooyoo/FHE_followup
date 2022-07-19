@@ -43,8 +43,8 @@
 ## CKKS
 
 ## LWE
-* [On Ideal Lattices and Learning with Errors Over Rings 2010](https://eprint.iacr.org/2012/230.pdf) : Hardness of RLWE
-* [On Lattices, Learning with Errors, Random Linear Codes, and Cryptography](https://cims.nyu.edu/~regev/papers/qcrypto.pdf)
+* [On Lattices, Learning with Errors, Random Linear Codes, and Cryptography](https://cims.nyu.edu/~regev/papers/qcrypto.pdf) : first introduction of LWE
+* [On Ideal Lattices and Learning with Errors Over Rings 2010](https://eprint.iacr.org/2012/230.pdf) : expansion of LWE problem to RLWE (ring)
 
 # 4. Miscellaneous
 ## Programming
