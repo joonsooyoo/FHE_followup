@@ -38,7 +38,7 @@
 
 # 3. B\FV, CKKS, and Others
 ## B\FV
-* [FV scheme: Somewhat Practical Fully Homomorphic Encryption](https://eprint.iacr.org/2012/144.pdf)
+* [[FV12] Somewhat Practical Fully Homomorphic Encryption](https://eprint.iacr.org/2012/144.pdf)
 
 # 4. Miscellaneous
 ## Programming
