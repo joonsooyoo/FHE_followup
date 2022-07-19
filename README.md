@@ -44,6 +44,7 @@
 
 ## LWE
 * [On Ideal Lattices and Learning with Errors Over Rings 2010](https://eprint.iacr.org/2012/230.pdf) : Hardness of RLWE
+* [On Lattices, Learning with Errors, Random Linear Codes, and Cryptography](https://cims.nyu.edu/~regev/papers/qcrypto.pdf)
 
 # 4. Miscellaneous
 ## Programming
