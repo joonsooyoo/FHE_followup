@@ -41,6 +41,8 @@
 * [[FV12] Somewhat Practical Fully Homomorphic Encryption](https://eprint.iacr.org/2012/144.pdf)
 
 ## CKKS
+#### Implementation
+* [SEAL by Microsoft](https://github.com/microsoft/SEAL)
 
 ## LWE
 * [On Lattices, Learning with Errors, Random Linear Codes, and Cryptography](https://cims.nyu.edu/~regev/papers/qcrypto.pdf) : first introduction of LWE
