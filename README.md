@@ -40,7 +40,7 @@
 ## B\FV
 * [[FV12] Somewhat Practical Fully Homomorphic Encryption](https://eprint.iacr.org/2012/144.pdf)
 #### Implementation
-* [BFV by Python](https://blog.openmined.org/build-an-homomorphic-encryption-scheme-from-scratch-with-python/)
+* [BFV written in Python from scratch](https://blog.openmined.org/build-an-homomorphic-encryption-scheme-from-scratch-with-python/)
 
 ## CKKS
 #### Implementation
